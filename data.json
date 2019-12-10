@@ -829,7 +829,7 @@
     },
     {
         "Name": "Imixs-Workflow",
-        "Version": "4.1.0",
+        "Version": "5.1.5",
         "URL": "http:\/\/www.imixs.org",
         "Creator": "Imixs",
         "Platform\/OS": "Cross-platform",
@@ -842,7 +842,7 @@
         },
         "BPMN Version": "BPMN 2.0",
         "First Release": "2006",
-        "Latest Release": "2017",
+        "Latest Release": "2019",
         "License": {
             "free": true,
             "proprietary": false,
